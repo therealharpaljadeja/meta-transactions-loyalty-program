@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Loyalty Program via Meta-trasactions
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Following contracts implement a loyalty program where users can pay for goods & services without paying gas instead can forward their transactions to the vendor who can later claim the payment thus rewarding the user for the transaction.
